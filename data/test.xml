@@ -1,0 +1,81 @@
+<articles>
+
+	<article>
+		<id_article>4</id_article>
+		<group>Проставки пружин</group>
+		<auto>MERCEDES BENZ</auto>
+		<brand>FEBI</brand>
+		<number>07731</number>
+		<original>2013251044</original>
+		<descr>Проставка пружины MB W201W202W124S124 13мм зад.</descr>
+		<supplier>SMART ЛЕГКОВОЙ</supplier>
+		<deadline>24 ч</deadline>
+		<rest>4</rest>
+	</article>
+
+	<article>
+		<id_article>7</id_article>
+		<group>Патрубки, фланцы и бачки системы охлаждения</group>
+		<auto>VAG</auto>
+		<brand>FEBI</brand>
+		<number>02269</number>
+		<original>443121321</original>
+		<descr>Крышка расширительного бачка VAG Audi -97 A80A100A4A6VW Golf 2Jetta 2 84-89 &amp;lt;=72269</descr>
+		<supplier>SMART ЛЕГКОВОЙ</supplier>
+		<deadline>24 ч</deadline>
+		<rest>20</rest>
+	</article>
+
+	<article>
+		<id_article>13</id_article>
+		<group>Сайлентблоки</group>
+		<auto>VAG</auto>
+		<brand>FEBI</brand>
+		<number>07623</number>
+		<original>431505172</original>
+		<descr>Сайлентблок тяги Панара AUDI 8090100200A6</descr>
+		<supplier>SMART ЛЕГКОВОЙ</supplier>
+		<deadline>24 ч</deadline>
+		<rest>10</rest>
+	</article>
+
+	<article>
+		<id_article>15</id_article>
+		<group>Проставки пружин</group>
+		<auto>MERCEDES BENZ</auto>
+		<brand>FEBI</brand>
+		<number>01306</number>
+		<original>1153252444</original>
+		<descr>Проставка пружины MB W114W115W123S123W116W123W126 19мм зад.</descr>
+		<supplier>SMART ЛЕГКОВОЙ</supplier>
+		<deadline>24 ч</deadline>
+		<rest>50</rest>
+	</article>
+
+	<article>
+		<id_article>7</id_article>
+		<group>Патрубки, фланцы и бачки системы охлаждения</group>
+		<auto>VAG</auto>
+		<brand>FEBI</brand>
+		<number>02269</number>
+		<original>443121321</original>
+		<descr>Крышка расширительного бачка VAG Audi -97 A80A100A4A6VW Golf 2Jetta 2 84-89 &amp;lt;=72269</descr>
+		<supplier>SMART ЛЕГКОВОЙ</supplier>
+		<deadline>24 ч</deadline>
+		<rest>20</rest>
+	</article>
+
+	<article>
+		<id_article>5479232</id_article>
+		<group>Патрубки, фланцы и бачки системы охлаждения</group>
+		<auto>VAG</auto>
+		<brand>VEMO/VAICO</brand>
+		<number>V10-0018</number>
+		<original>443121321</original>
+		<descr>Крышка расширительного бачка VAG Audi -97 A80A100A4A6VW Golf 2Jetta 2 84-89</descr>
+		<supplier>SMART ЛЕГКОВОЙ</supplier>
+		<deadline>24 ч</deadline>
+		<rest>4</rest>
+	</article>
+
+</articles>
